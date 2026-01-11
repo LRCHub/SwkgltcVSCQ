@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Imprisoned XII",
+  "base_artist": "Ave Mujica",
+  "createdAt": "2026-01-11T22:45:04.443511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Imprisoned XII",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/01_Imprisoned_XII_Ave_Mujica.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "imprisoned xii",
+      "artist": "ave mujica",
+      "has_synced": true,
+      "path": "select/02_imprisoned_xii_ave_mujica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Imprisoned XII",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/pl_01_Imprisoned_XII_Ave_Mujica.txt"
+    }
+  ]
+}
